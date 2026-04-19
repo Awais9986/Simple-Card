@@ -4,11 +4,11 @@ A simple card component for displaying content in a card format.
 
 ## Installation
 
-Clone the repository and install dependencies:
+Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/simple-card.git
-cd simple-card
+git clone https://github.com/Awais9986/Simple-Card.git
+cd Simple-Card
 
 ```
 
